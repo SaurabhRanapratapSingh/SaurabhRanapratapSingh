@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:0066cc,100:003399&height=220&section=header&text=Hey!%20I'm%20Saurabh%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Open%20to%20Work&descAlignY=56&descSize=20&descColor=cce6ff" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0099FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Java+Backend+Developer+☕;Spring+Boot+%7C+REST+API+%7C+JWT+🔐;MySQL+%7C+Spring+Security+🛡️;Fresher+%7C+Open+to+Work+🚀;Always+Learning+%7C+Never+Stopping+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0099FF&center=true&vCenter=true&width=700&height=70&lines=Hey!+I'm+Saurabh+👋;Java+Backend+Developer+☕;Spring+Boot+%7C+REST+API+%7C+JWT+🔐;Fresher+%7C+Open+to+Work+🚀" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaurabhRanapratapSingh&label=Profile+Views&color=0099ff&style=for-the-badge" />
@@ -16,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
 
 ## 🚀 About Me
 
@@ -107,8 +103,8 @@
 
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,50:0066cc,100:0099ff&height=130&section=footer" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <br/>
+  <em>Feel free to connect — I love meeting new people!</em>
 </div>
