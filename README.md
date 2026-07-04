@@ -1,11 +1,10 @@
-<!-- PIXEL ART BANNER -->
+<!-- PIXEL ART BANNER - actual pixel/8bit style image -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0a0a0a,100:000000&height=220&text=SAURABH%20SINGH&fontColor=00ff41&fontSize=50&fontAlignY=45&desc=%3E_%20Java%20Backend%20Developer&descAlignY=68&descSize=20&descColor=39ff14&animation=fadeIn&stroke=00ff41&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&text=SAURABH%20SINGH&fontColor=00ff41&fontSize=52&fontAlignY=42&desc=%3E_%20Java%20Backend%20Developer&descAlignY=65&descSize=22&descColor=00ff41&animation=blinking&stroke=00ff41&strokeWidth=3&fontAlign=50&descAlign=50"/>
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Spring+Security+%7C+REST+APIs+%F0%9F%94%A7;JWT+%7C+MySQL+%7C+Oracle+%7C+Docker+%F0%9F%90%B3;Fresher+%7C+Open+to+Work+%F0%9F%9A%80;Building+Scalable+Backend+Systems+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=SPRING+BOOT+%7C+REST+API+%7C+JWT;OPEN+TO+WORK...+%F0%9F%9A%80;BUILDING+BACKEND+SYSTEMS+%E2%9A%A1;INSERT+COIN+TO+HIRE+ME+%F0%9F%AA%99" />
 
 <br/>
 
@@ -156,21 +155,21 @@ Production-ready backend with clean layered architecture.
 
 <div align="center">
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/pacman.gif" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/JX6mK6z8mSAAAAAC/mario-run.gif" width="120"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/NRhh4xM7KQ8AAAAi/gameboy.gif" width="70"/>
+<img src="https://media.tenor.com/3PFQGrjrSckAAAAC/coding-programming.gif" width="480"/>
 
 ```
-INSERT COIN TO CONTINUE...
-
-PLAYER 1   >>>   SAURABH SINGH
-
-⬅ JAVA          ▲ SPRING BOOT
-➡ REST API       ▼ JWT AUTH
-
-SCORE: 8.2 CGPA    LEVEL: FRESHER    LIVES: ∞
+╔══════════════════════════════════════════╗
+║          🕹️  PLAYER SELECT  🕹️           ║
+╠══════════════════════════════════════════╣
+║  NAME    ► SAURABH SINGH                ║
+║  CLASS   ► JAVA BACKEND DEVELOPER       ║
+║  LEVEL   ► FRESHER  (LVL 1)             ║
+║  WEAPON  ► SPRING BOOT + JWT            ║
+║  SCORE   ► 8.2 CGPA                     ║
+║  STATUS  ► OPEN TO WORK  🚀             ║
+╠══════════════════════════════════════════╣
+║  [ ▶ HIRE ME ]      [ ✉ CONTACT ]       ║
+╚══════════════════════════════════════════╝
 ```
 
 </div>
@@ -206,9 +205,13 @@ SCORE: 8.2 CGPA    LEVEL: FRESHER    LIVES: ∞
 
 ---
 
-<!-- FOOTER PIXEL ART -->
+<!-- FOOTER -->
 <div align="center">
-<img src="https://media.tenor.com/FdkR6J2R7h8AAAAC/pixel-art.gif" width="100%"/>
+<img src="https://media.tenor.com/S1VCU5tKBq4AAAAC/8-bit-heart.gif" width="40"/>
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=GAME+OVER%3F+NAH...;KEEP+CODING+%F0%9F%9A%80;SEE+YOU+IN+THE+NEXT+COMMIT+%E2%98%95"/>
+&nbsp;
+<img src="https://media.tenor.com/S1VCU5tKBq4AAAAC/8-bit-heart.gif" width="40"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a0a,100:000000&height=60&text=GAME%20OVER%20%3F%20%20NAH...%20KEEP%20CODING%20%F0%9F%9A%80&fontColor=00ff41&fontSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=50&text=——%20THANKS%20FOR%20VISITING%20——&fontColor=00ff41&fontSize=14&animation=fadeIn&fontAlign=50"/>
