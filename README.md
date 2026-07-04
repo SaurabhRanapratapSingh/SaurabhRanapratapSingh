@@ -1,13 +1,15 @@
 <!-- PIXEL ART BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0f1a,50:1a1a2e,100:16213e&height=180&text=Saurabh%20Singh&fontColor=58A6FF&fontSize=52&fontAlignY=45&desc=Java%20Backend%20Developer&descAlignY=68&descSize=18&descColor=22d3ee&animation=fadeIn&stroke=58A6FF&strokeWidth=1" />
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0a0a0a,100:000000&height=220&text=SAURABH%20SINGH&fontColor=00ff41&fontSize=50&fontAlignY=45&desc=%3E_%20Java%20Backend%20Developer&descAlignY=68&descSize=20&descColor=39ff14&animation=fadeIn&stroke=00ff41&strokeWidth=2"/>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Spring+Security+%7C+REST+APIs+%F0%9F%94%A7;JWT+%7C+MySQL+%7C+Oracle+%7C+Docker+%F0%9F%90%B3;Fresher+%7C+Open+to+Work+%F0%9F%9A%80;Building+Scalable+Backend+Systems+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Spring+Security+%7C+REST+APIs+%F0%9F%94%A7;JWT+%7C+MySQL+%7C+Oracle+%7C+Docker+%F0%9F%90%B3;Fresher+%7C+Open+to+Work+%F0%9F%9A%80;Building+Scalable+Backend+Systems+%E2%9A%A1" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SaurabhRanapratapSingh&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=SaurabhRanapratapSingh&style=for-the-badge&color=00ff41&label=Profile+Views"/>
 &nbsp;
 <a href="https://github.com/SaurabhRanapratapSingh">
 <img src="https://img.shields.io/github/followers/SaurabhRanapratapSingh?style=for-the-badge&logo=github&label=Followers&color=181717"/>
@@ -47,7 +49,7 @@ Coffee   :: Required ☕
 </td>
 <td width="45%" align="center">
 
-<img width="100%" src="https://media.tenor.com/Z6gmDPeM6dgAAAAd/pixel-art.gif"/>
+<img width="100%" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 *"while(coffee){ code(); }"*
 
@@ -150,15 +152,27 @@ Production-ready backend with clean layered architecture.
 
 ---
 
-## 📈 GitHub Stats
+## 🕹️ Retro Zone
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SaurabhRanapratapSingh&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=22d3ee&text_color=cce6ff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhRanapratapSingh&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=cce6ff&bg_color=0d1117" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhRanapratapSingh&theme=tokyonight&hide_border=true&ring=58A6FF&fire=22d3ee&currStreakLabel=58A6FF"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/pacman.gif" width="80"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.tenor.com/JX6mK6z8mSAAAAAC/mario-run.gif" width="120"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.tenor.com/NRhh4xM7KQ8AAAAi/gameboy.gif" width="70"/>
+
+```
+INSERT COIN TO CONTINUE...
+
+PLAYER 1   >>>   SAURABH SINGH
+
+⬅ JAVA          ▲ SPRING BOOT
+➡ REST API       ▼ JWT AUTH
+
+SCORE: 8.2 CGPA    LEVEL: FRESHER    LIVES: ∞
+```
+
 </div>
 
 ---
@@ -192,9 +206,9 @@ Production-ready backend with clean layered architecture.
 
 ---
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0f1a,100:58A6FF&height=110&section=footer&animation=twinkling"/>
-
+<!-- FOOTER PIXEL ART -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=58A6FF&center=true&vCenter=true&width=400&lines=Happy+Coding!+%F0%9F%9A%80;See+you+in+the+next+commit+%E2%98%95"/>
+<img src="https://media.tenor.com/FdkR6J2R7h8AAAAC/pixel-art.gif" width="100%"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0a0a,100:000000&height=60&text=GAME%20OVER%20%3F%20%20NAH...%20KEEP%20CODING%20%F0%9F%9A%80&fontColor=00ff41&fontSize=18&animation=fadeIn"/>
