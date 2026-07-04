@@ -1,30 +1,31 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</div>
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0f1a,50:22d3ee,100:818cf8&height=200&text=Saurabh%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=55&desc=Java%20Backend%20Developer&descAlignY=75&descSize=18&animation=fadeIn&stroke=22d3ee&strokeWidth=1" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=Hey!+I'm+Saurabh+%F0%9F%91%8B;Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+REST+API+%7C+JWT+%F0%9F%94%90;Fresher+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Building+clean+REST+APIs+%F0%9F%94%A7;Spring+Boot+%7C+JWT+%7C+Spring+Security+%F0%9F%94%90;Fresher+%7C+Open+to+Work+%F0%9F%9A%80;Let%27s+build+something+great+together!+%E2%9A%A1)](https://git.io/typing-svg)
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=SaurabhRanapratapSingh&label=Profile+Views&color=22d3ee&style=for-the-badge" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaurabhRanapratapSingh&label=Profile+Views&color=22d3ee&style=for-the-badge" />
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" />
+<!-- ABOUT with GIF -->
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🎓 **Fresher** | Looking for Backend Developer opportunities
-- 💻 Currently building **Spring Boot REST APIs**
-- 🔐 Love working with **JWT & Spring Security**
-- 🌱 Always learning something new every day
-- 🎯 Goal: Build scalable and clean backend systems
-- 🌐 **Portfolio:** [saurabhranapratapsingh.github.io](https://saurabhranapratapsingh.github.io)
-- 📫 **saurabhranapratapsingh@gmail.com**
+```java
+public class Saurabh {
+    String role     = "Java Backend Developer";
+    String degree   = "B.Tech CSE @ NIT Nagpur (8.2 CGPA)";
+    String status   = "Open to Work 🚀";
+    String[] loves  = {"Spring Boot", "JWT", "Clean Code"};
+    String goal     = "Build scalable backend systems";
+    String email    = "saurabhranapratapsingh@gmail.com";
+}
+```
 
 <br clear="right"/>
 
@@ -56,21 +57,29 @@
 ![Maven](https://img.shields.io/badge/Maven-22d3ee?style=for-the-badge&logo=apache-maven&logoColor=0d0f1a)
 ![Swagger](https://img.shields.io/badge/Swagger-818cf8?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-22d3ee?style=for-the-badge&logo=postman&logoColor=0d0f1a)
+![Docker](https://img.shields.io/badge/Docker-22d3ee?style=for-the-badge&logo=docker&logoColor=0d0f1a)
+![AWS S3](https://img.shields.io/badge/AWS_S3-818cf8?style=for-the-badge&logo=amazons3&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 <div align="center">
 
-[![Spring Boot Demo](https://github-readme-stats.vercel.app/api/pin/?username=SaurabhRanapratapSingh&repo=springboot-demo&theme=tokyonight&hide_border=true&icon_color=22d3ee&title_color=22d3ee)](https://github.com/SaurabhRanapratapSingh/springboot-demo)
+[![E-Commerce Backend](https://github-readme-stats.vercel.app/api/pin/?username=SaurabhRanapratapSingh&repo=ecommerce-backend&theme=tokyonight&hide_border=true&icon_color=22d3ee&title_color=22d3ee)](https://github.com/SaurabhRanapratapSingh/ecommerce-backend)
+[![E-Commerce Frontend](https://github-readme-stats.vercel.app/api/pin/?username=SaurabhRanapratapSingh&repo=ecommerce-frontend&theme=tokyonight&hide_border=true&icon_color=818cf8&title_color=818cf8)](https://github.com/SaurabhRanapratapSingh/ecommerce-frontend)
 
 </div>
 
+### 🛒 E-Commerce Platform *(Biggest Project)*
+> Full Amazon-style platform — Spring Boot + React/Vite + Oracle XE (Docker) + AWS S3 + Stripe + Gmail SMTP. 3 roles: USER, ADMIN, HANDLER.
+
+🔗 [Backend →](https://github.com/SaurabhRanapratapSingh/ecommerce-backend) &nbsp; 🔗 [Frontend →](https://github.com/SaurabhRanapratapSingh/ecommerce-frontend)
+
 ### 🔧 Spring Boot REST API Demo
-> A production-style backend with JWT authentication, User & Order management, pagination, sorting, Spring Security, global exception handling and Swagger docs.
+> Production-style backend — JWT auth, User & Order CRUD, pagination, sorting, Spring Security, Swagger docs.
 
 🔗 [View Project →](https://github.com/SaurabhRanapratapSingh/springboot-demo)
 
@@ -89,6 +98,18 @@
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhRanapratapSingh&theme=tokyonight&no-frame=true&column=4&margin-w=10&title=Stars,Commits,Repositories,Followers" />
+</div>
+
+- 🥇 **1st Place** — Gen-Z Inter-College Hackathon
+- ☕ **Java Core Programming Certification** — ACESD
+- 🎓 **8.2 CGPA** — B.Tech CSE, Nagpur Institute of Technology
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -102,13 +123,13 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=0d0f1a)](https://saurabhranapratapsingh.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-818cf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhranapratapsingh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0f1a)](https://github.com/SaurabhRanapratapSingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-818cf8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-singh-3924203b1)
+[![Gmail](https://img.shields.io/badge/Gmail-22d3ee?style=for-the-badge&logo=gmail&logoColor=0d0f1a)](mailto:saurabhranapratapsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaurabhRanapratapSingh)
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="120" />
-  <br/>
-  <em>Open to opportunities — let's build something great together!</em>
-</div>
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:22d3ee&height=120&section=footer&animation=twinkling" />
