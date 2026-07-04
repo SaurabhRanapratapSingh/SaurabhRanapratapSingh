@@ -1,6 +1,6 @@
 <!-- PIXEL ART DESK SETUP BANNER -->
 <div align="center">
-<img width="100%" src="https://media1.tenor.com/m/DVXNuYXLyGUAAAAd/raining-pixel.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/SaurabhRanapratapSingh/SaurabhRanapratapSingh/main/banner.gif"/>
 </div>
 
 <div align="center">
